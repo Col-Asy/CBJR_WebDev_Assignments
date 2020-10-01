@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>pictures</title>
+</head>
+<body>
+    <h1><u>Batman</u></h1>
+    <p>
+       Batman operates in the Gotham City with assistance fom various supporting characters , including his butler Alfred , police commissioner Jim Gordan , and vigilent allies such as Robin.Unlike most superheroes , Batman does not posses any <b>inhuman superpowers.</b> 
+    </p>
+    <img src="https://github.com/sanjeetboora/CBJrWeb/blob/master/Assignment5/assignment5folder/batman2.jpg?raw=true" alt="Batman" height="300" width="400">
+
+    <img src="https://github.com/sanjeetboora/CBJrWeb/blob/master/Assignment5/assignment5folder/batman1.jpeg?raw=true" alt="batman2" height="300" width="700">
+
+    <br>
+    
+
+    <img src="https://store.playstation.com/store/api/chihiro/00_09_000/container/US/en/999/UP1018-CUSA00133_00-DLCSKINBMDARKKNI/1600301916000/image?w=240&h=240&bg_color=000000&opacity=100&_version=00_09_000" alt="Batman3" height="300" width="400">
+
+
+    <img src="https://www.syfy.com/sites/syfy/files/styles/1200x680_hero/public/wire/legacy/Batman-The-Dark-Knight-Wallpapers.jpg" alt="Batman4" height="300" width="700">
+
+    <br>
+    <u><b>Audios of batman</b></u>
+    <br>
+    <audio src="batman.mp3" 
+    controls
+    loop
+    autoplay
+    preload="none"></audio>
+
+    <br>
+    <u><b>Videos for batman</b></u>
+    <br>
+    <video src="https://www.youtube.com/watch?v=EXeTwQWrcwY"
+    controls
+ 
+    ></video>
+
+    <video src="https://www.youtube.com/watch?v=NLOp_6uPccQ"
+    controls
+    loop 
+    autoplay
+    ></video>
+
+</body>
+</html>
