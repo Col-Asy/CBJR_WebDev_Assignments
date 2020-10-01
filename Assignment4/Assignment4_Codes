@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Assignment 4</title>
+</head>
+<body>
+    <h1 align="center"> SECTION - 1 </h1>
+    <p>
+        This section consists of the links which will direct us to the respective websites :
+        <br>
+        <ul>
+            <li>
+                Youtube: <a href="https://www.youtube.com" target="_blank">Click here for YOUTUBE</a>
+            </li>
+            <li>
+                Coding Blocks: <a href="https://codingblocks.com/" target="_blank">Click here for CODING BLOCKS</a>
+            </li>
+            <li>
+                Github: <a href="https://github.com/" target="_blank">Click here for GITHUB</a>
+            </li>
+            <li>
+                Google: <a href="https://www.google.com/" target="_blank">Click here for GOOGLE(India)</a>
+            </li>
+            <li>
+                Educational Cartoons: <a href="https://www.google.com/search?q=educational+cartoons&oq=ed&aqs=chrome.0.69i59j69i57j0j69i60l5.4303j0j7&sourceid=chrome&ie=UTF-8" target="_blank">Click here for EDUCATIONAL CARTOONS</a>
+            </li>
+        </ul>
+    </p>
+    <h1 align="center"> SECTION- 2 </h1>
+    <p>
+        This section consists of the links through which we can directly call a particular organization :
+        <ul>
+            <li>
+                Medical Emergency: 
+                <ul>
+                    <li><a href="tel:112">National Emergency Number</a></li>
+                    <li><a href="tel:+919540161344">Air Ambulance</a></li>
+                    <li><a href="tel:1097">AIDS Helpline</a></li>
+                    <li><a href="tel:1066">Anti Poison (for DELHI)</a></li>
+                </ul>
+            </li>
+            <li>
+                JIO: <a href="tel:1800 889 9999">JIO(Joint Implementation Opportunities) Customer Care</a>
+            </li>
+            <li>
+                Coding Blocks: <a href="tel:18002744504">CODING BLOCKS HELPLINE</a>
+            </li>
+            <li>
+                COVID-19 : <a href="tel:+911123978046">COVID-19 HELPLINE</a>
+            </li>
+        </ul>
+    </p>
+    <p>
+        <h1 align="center">SECTION - 3</h1>
+        This section consist of the links through which we can directly mail a particular organization
+        <ul>
+            <li>
+                Coding Blocks: <a href="mailto:admissions@codingblocks.com">CODING BLOCKS E-mail</a>
+            </li>
+            <li>
+                SBI: <a href="mailto:epg.cms@sbi.co.in">SBI Email-Id</a>
+            </li>
+
+            <li>
+                Vidya Mandir: <a href="mailto:admissions@vidyamandir.com"> VidyaMandir helpline E-mail</a>
+            </li>
+            <li>
+                COVID-19: <a href="mailto:ncov2019@gov.in">Covid 19 helpline email</a>
+            </li>
+            
+            
+
+
+        </ul>
+    </p>
+</body>
+</html>
